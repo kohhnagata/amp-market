@@ -1,0 +1,6 @@
+
+frontend/.env
+.DS_Store
+contract/lib/
+contract/broadcast/NightMarket.s.sol
+
